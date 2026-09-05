@@ -1,4 +1,4 @@
-#Flower Catching Minigame
+# Flower Catching Minigame
 
 A cute 2d minigame built from scratch using Java. 
 The player is a princess wielding a net, trying to catch flowers falling from the sky. 
