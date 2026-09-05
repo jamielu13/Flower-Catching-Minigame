@@ -7,9 +7,9 @@ The player is a princess wielding a net, trying to catch flowers falling from th
 * **Game Over:** No more lives Game Over
 
 **How to Play:**
-*Run the Main.class to open up the frame.
-*a: move left
-*d: move right
+* Run the Main.class to open up the frame.
+* a: move left
+* d: move right
 
 **Artwork**
 Artwork and assets were entirely self drawn.
