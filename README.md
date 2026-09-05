@@ -12,5 +12,5 @@ The player is a princess wielding a net, trying to catch flowers falling from th
 * d: move right
 
 **Artwork**
-Artwork and assets were entirely self drawn.
+* Artwork and assets were entirely self drawn.
 
